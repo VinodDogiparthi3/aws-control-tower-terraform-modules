@@ -1,6 +1,3 @@
-// Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
-// SPDX-License-Identifier: MIT-0
-
 variable "outbound_vpc_cidr" {}
 variable "EgressPublicAZ1_cidr" {}
 variable "EgressPublicAZ2_cidr" {}

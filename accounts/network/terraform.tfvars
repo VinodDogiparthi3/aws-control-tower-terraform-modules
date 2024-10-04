@@ -1,6 +1,3 @@
-// Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
-// SPDX-License-Identifier: MIT-0
-
 region = "us-east-1"
 automation_role = "arn:aws:iam::012345678910:role/automation/Terraform"
 outbound_vpc_cidr = "10.120.0.0/19"

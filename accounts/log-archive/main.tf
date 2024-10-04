@@ -1,5 +1,3 @@
-// Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
-// SPDX-License-Identifier: MIT-0
 
 # Backend configuration to save the state file to the bucket and key defined below.
 # The account number is that of the master account.

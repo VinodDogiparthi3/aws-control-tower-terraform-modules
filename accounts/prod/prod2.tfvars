@@ -1,6 +1,3 @@
-// Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
-// SPDX-License-Identifier: MIT-0
-
 cidr_block = [{
   prod2_vpc         = "10.120.128.0/19"
   app_subnet_1      = "10.120.128.0/23"
